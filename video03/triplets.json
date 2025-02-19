@@ -1,0 +1,1051 @@
+[
+  {
+    "frame_id": 2,
+    "frame_file": "0000050.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0000050.jpg",
+    "triplets": [
+      [
+        "Clipper",
+        "Cystic Duct",
+        "Clipping"
+      ],
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ]
+    ],
+    "analysis": "The clipper is being used to apply clips on the cystic duct while the left grasper holds the gallbladder in place."
+  },
+  {
+    "frame_id": 28,
+    "frame_file": "0000700.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0000700.jpg",
+    "triplets": [
+      [
+        "Scissors",
+        "Tissue",
+        "Cutting"
+      ]
+    ],
+    "analysis": "The scissors are being used to cut tissue during the procedure."
+  },
+  {
+    "frame_id": 33,
+    "frame_file": "0000825.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0000825.jpg",
+    "triplets": [
+      [
+        "Clipper",
+        "Cystic Duct",
+        "Clipping"
+      ],
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ]
+    ],
+    "analysis": "The clipper is being used to apply clips on the cystic duct while the left grasper holds the gallbladder in place."
+  },
+  {
+    "frame_id": 41,
+    "frame_file": "0001025.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0001025.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Scissors",
+        "Tissue",
+        "Cutting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while scissors are used to cut tissue."
+  },
+  {
+    "frame_id": 244,
+    "frame_file": "0006100.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0006100.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Fat",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Fat",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the fat tissue while the hook is used for dissection."
+  },
+  {
+    "frame_id": 295,
+    "frame_file": "0007375.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0007375.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Right Grasper",
+        "Cystic Duct",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the right grasper is dissecting the cystic duct."
+  },
+  {
+    "frame_id": 314,
+    "frame_file": "0007850.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0007850.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Gallbladder",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used for dissection."
+  },
+  {
+    "frame_id": 513,
+    "frame_file": "0012825.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0012825.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Scissors",
+        "Cystic Duct",
+        "Cutting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while scissors are cutting the cystic duct."
+  },
+  {
+    "frame_id": 548,
+    "frame_file": "0013700.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0013700.jpg",
+    "triplets": [
+      [
+        "Hook",
+        "Gallbladder",
+        "Dissecting"
+      ],
+      [
+        "Right Grasper",
+        "Tissue",
+        "Grasping"
+      ]
+    ],
+    "analysis": "The hook is being used to dissect the gallbladder from surrounding tissue while the right grasper holds the tissue in place."
+  },
+  {
+    "frame_id": 589,
+    "frame_file": "0014725.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0014725.jpg",
+    "triplets": [
+      [
+        "Hook",
+        "Gallbladder",
+        "Dissecting"
+      ],
+      [
+        "Left Grasper",
+        "Tissue",
+        "Grasping"
+      ]
+    ],
+    "analysis": "The hook is being used to dissect tissue around the gallbladder while the left grasper holds the tissue in place."
+  },
+  {
+    "frame_id": 649,
+    "frame_file": "0016225.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0016225.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Cystic Duct",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used to dissect the cystic duct."
+  },
+  {
+    "frame_id": 705,
+    "frame_file": "0017625.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0017625.jpg",
+    "triplets": [
+      [
+        "Clipper",
+        "Cystic Duct",
+        "Clipping"
+      ],
+      [
+        "Right Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The clipper is being used to secure the cystic duct while the right grasper holds the gallbladder in place, and the hook retracts the liver."
+  },
+  {
+    "frame_id": 801,
+    "frame_file": "0020025.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0020025.jpg",
+    "triplets": [
+      [
+        "Top Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Left Grasper",
+        "Cystic Duct",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The top grasper is holding the gallbladder while the left grasper is dissecting the cystic duct."
+  },
+  {
+    "frame_id": 865,
+    "frame_file": "0021625.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0021625.jpg",
+    "triplets": [
+      [
+        "Clipper",
+        "Cystic Duct",
+        "Clipping"
+      ],
+      [
+        "Right Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Tissue",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The clipper is being used to apply clips on the cystic duct, while the right grasper holds the gallbladder in place. The hook is used for dissection."
+  },
+  {
+    "frame_id": 886,
+    "frame_file": "0022150.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0022150.jpg",
+    "triplets": [
+      [
+        "Hook",
+        "Gallbladder",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The hook is being used to dissect tissue around the gallbladder."
+  },
+  {
+    "frame_id": 984,
+    "frame_file": "0024600.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0024600.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is retracting the liver to provide better visibility."
+  },
+  {
+    "frame_id": 989,
+    "frame_file": "0024725.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0024725.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Right Grasper",
+        "Cystic Duct",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the right grasper is dissecting the cystic duct."
+  },
+  {
+    "frame_id": 998,
+    "frame_file": "0024950.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0024950.jpg",
+    "triplets": [
+      [
+        "Clipper",
+        "Cystic Duct",
+        "Clipping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The clipper is being used to apply clips on the cystic duct while the hook is retracting the liver."
+  },
+  {
+    "frame_id": 1255,
+    "frame_file": "0031375.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0031375.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Tissue",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used for dissection."
+  },
+  {
+    "frame_id": 1441,
+    "frame_file": "0036025.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0036025.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Tissue",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used to dissect surrounding tissue."
+  },
+  {
+    "frame_id": 1451,
+    "frame_file": "0036275.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0036275.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Right Grasper",
+        "Cystic Duct",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the right grasper is dissecting the cystic duct."
+  },
+  {
+    "frame_id": 1552,
+    "frame_file": "0038800.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0038800.jpg",
+    "triplets": [
+      [
+        "Top Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Tissue",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The top grasper is holding the gallbladder while the hook is used to dissect surrounding tissue."
+  },
+  {
+    "frame_id": 1639,
+    "frame_file": "0040975.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0040975.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Cystic Duct",
+        "Dissecting"
+      ],
+      [
+        "Right Grasper",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder, the hook is dissecting the cystic duct, and the right grasper is retracting the liver."
+  },
+  {
+    "frame_id": 1783,
+    "frame_file": "0044575.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0044575.jpg",
+    "triplets": [
+      [
+        "Clipper",
+        "Cystic Duct",
+        "Clipping"
+      ],
+      [
+        "Right Grasper",
+        "Gallbladder",
+        "Grasping"
+      ]
+    ],
+    "analysis": "The clipper is being used to apply clips on the cystic duct while the right grasper holds the gallbladder in place."
+  },
+  {
+    "frame_id": 1829,
+    "frame_file": "0045725.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0045725.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Tissue",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used to dissect surrounding tissue."
+  },
+  {
+    "frame_id": 2120,
+    "frame_file": "0053000.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0053000.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Right Grasper",
+        "Cystic Duct",
+        "Dissecting"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder, while the right grasper is dissecting the cystic duct. The hook is retracting the liver to provide better visibility."
+  },
+  {
+    "frame_id": 2196,
+    "frame_file": "0054900.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0054900.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Tissue",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used for dissection."
+  },
+  {
+    "frame_id": 2399,
+    "frame_file": "0059975.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0059975.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Cystic Duct",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used to dissect the cystic duct."
+  },
+  {
+    "frame_id": 2406,
+    "frame_file": "0060150.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0060150.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used to dissect tissue near the liver."
+  },
+  {
+    "frame_id": 2501,
+    "frame_file": "0062525.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0062525.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used to dissect tissue near the liver."
+  },
+  {
+    "frame_id": 2575,
+    "frame_file": "0064375.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0064375.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Tissue",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used to dissect surrounding tissue."
+  },
+  {
+    "frame_id": 2707,
+    "frame_file": "0067675.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0067675.jpg",
+    "triplets": [
+      [
+        "Clipper",
+        "Blood Vessel",
+        "Clipping"
+      ],
+      [
+        "Irrigator",
+        "Liver",
+        "Irrigating"
+      ]
+    ],
+    "analysis": "The clipper is being used to clip a blood vessel, while the irrigator is cleaning the liver area."
+  },
+  {
+    "frame_id": 2781,
+    "frame_file": "0069525.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0069525.jpg",
+    "triplets": [
+      [
+        "Right Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The right grasper is holding the gallbladder while the hook is retracting the liver to provide better visibility."
+  },
+  {
+    "frame_id": 2796,
+    "frame_file": "0069900.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0069900.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Tissue",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used to dissect surrounding tissue."
+  },
+  {
+    "frame_id": 3240,
+    "frame_file": "0081000.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0081000.jpg",
+    "triplets": [
+      [
+        "Hook",
+        "Cystic Duct",
+        "Dissecting"
+      ],
+      [
+        "Hook",
+        "Gallbladder",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The hook is being used to dissect the cystic duct and retract the gallbladder."
+  },
+  {
+    "frame_id": 3244,
+    "frame_file": "0081100.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0081100.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Irrigator",
+        "Liver",
+        "Irrigating"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the irrigator is used to clean the liver area."
+  },
+  {
+    "frame_id": 3306,
+    "frame_file": "0082650.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0082650.jpg",
+    "triplets": [
+      [
+        "Top Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The top grasper is holding the gallbladder while the hook is used to dissect tissue near the liver."
+  },
+  {
+    "frame_id": 3478,
+    "frame_file": "0086950.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0086950.jpg",
+    "triplets": [
+      [
+        "Top Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Right Grasper",
+        "Cystic Duct",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The top grasper is holding the gallbladder while the right grasper is dissecting the cystic duct."
+  },
+  {
+    "frame_id": 3495,
+    "frame_file": "0087375.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0087375.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Tissue",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used for dissection."
+  },
+  {
+    "frame_id": 3802,
+    "frame_file": "0095050.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0095050.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is retracting the liver to provide better access."
+  },
+  {
+    "frame_id": 3839,
+    "frame_file": "0095975.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0095975.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Bipolar",
+        "Blood Vessel",
+        "Coagulating"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the bipolar is coagulating a blood vessel."
+  },
+  {
+    "frame_id": 3861,
+    "frame_file": "0096525.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0096525.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used to dissect tissue near the liver."
+  },
+  {
+    "frame_id": 3953,
+    "frame_file": "0098825.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0098825.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Right Grasper",
+        "Cystic Duct",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the right grasper is dissecting the cystic duct."
+  },
+  {
+    "frame_id": 3980,
+    "frame_file": "0099500.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0099500.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Tissue",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is used for dissection."
+  },
+  {
+    "frame_id": 4464,
+    "frame_file": "0111600.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0111600.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Right Grasper",
+        "Cystic Duct",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the right grasper is dissecting the cystic duct."
+  },
+  {
+    "frame_id": 4546,
+    "frame_file": "0113650.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0113650.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Cystic Duct",
+        "Dissecting"
+      ],
+      [
+        "Right Grasper",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder, the hook is dissecting the cystic duct, and the right grasper is retracting the liver."
+  },
+  {
+    "frame_id": 4569,
+    "frame_file": "0114225.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0114225.jpg",
+    "triplets": [
+      [
+        "Clipper",
+        "Cystic Duct",
+        "Clipping"
+      ],
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The clipper is being used to clip the cystic duct while the left grasper holds the gallbladder, and the hook retracts the liver."
+  },
+  {
+    "frame_id": 4582,
+    "frame_file": "0114550.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0114550.jpg",
+    "triplets": [
+      [
+        "Clipper",
+        "Cystic Duct",
+        "Clipping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The clipper is being used to apply clips on the cystic duct, while the hook is dissecting tissue near the liver."
+  },
+  {
+    "frame_id": 5122,
+    "frame_file": "0128050.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0128050.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Right Grasper",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the right grasper is retracting the liver to provide better access."
+  },
+  {
+    "frame_id": 5131,
+    "frame_file": "0128275.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0128275.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder, preparing for further dissection."
+  },
+  {
+    "frame_id": 5133,
+    "frame_file": "0128325.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0128325.jpg",
+    "triplets": [
+      [
+        "Scissors",
+        "Gallbladder",
+        "Cutting"
+      ]
+    ],
+    "analysis": "The scissors are being used to cut tissue around the gallbladder."
+  },
+  {
+    "frame_id": 5137,
+    "frame_file": "0128425.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0128425.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Right Grasper",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the right grasper is retracting the liver to provide better access."
+  },
+  {
+    "frame_id": 5139,
+    "frame_file": "0128475.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0128475.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder while the hook is retracting the liver to provide better access."
+  },
+  {
+    "frame_id": 5210,
+    "frame_file": "0130250.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0130250.jpg",
+    "triplets": [
+      [
+        "Hook",
+        "Gallbladder",
+        "Dissecting"
+      ],
+      [
+        "Left Grasper",
+        "Liver",
+        "Retracting"
+      ]
+    ],
+    "analysis": "The hook is being used to dissect the gallbladder while the left grasper retracts the liver."
+  },
+  {
+    "frame_id": 5213,
+    "frame_file": "0130325.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0130325.jpg",
+    "triplets": [
+      [
+        "Irrigator",
+        "Gallbladder",
+        "Irrigating"
+      ],
+      [
+        "Bipolar",
+        "Liver",
+        "Coagulating"
+      ]
+    ],
+    "analysis": "The irrigator is being used to clean the area around the gallbladder, while the bipolar is coagulating tissue near the liver."
+  },
+  {
+    "frame_id": 5364,
+    "frame_file": "0134100.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0134100.jpg",
+    "triplets": [
+      [
+        "Left Grasper",
+        "Gallbladder",
+        "Grasping"
+      ],
+      [
+        "Hook",
+        "Liver",
+        "Retracting"
+      ],
+      [
+        "Bipolar",
+        "Blood Vessel",
+        "Coagulating"
+      ]
+    ],
+    "analysis": "The left grasper is holding the gallbladder, the hook is retracting the liver, and the bipolar is coagulating a blood vessel."
+  },
+  {
+    "frame_id": 5746,
+    "frame_file": "0143650.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0143650.jpg",
+    "triplets": [
+      [
+        "Hook",
+        "Tissue",
+        "Dissecting"
+      ]
+    ],
+    "analysis": "The hook is being used to dissect tissue, likely to expose the gallbladder or related structures."
+  },
+  {
+    "frame_id": 5771,
+    "frame_file": "0144275.jpg",
+    "image_url": "https://wilsoncheng561.github.io/surgical-images/video03/0144275.jpg",
+    "triplets": [
+      [
+        "Clipper",
+        "Cystic Duct",
+        "Clipping"
+      ]
+    ],
+    "analysis": "The clipper is being used to apply clips on the cystic duct."
+  }
+]

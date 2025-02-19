@@ -14,10 +14,13 @@ https://wilsoncheng561.github.io/surgical-images/video75/0003775.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0005150.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0005325.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0005400.jpg
+https://wilsoncheng561.github.io/surgical-images/video75/0007000.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0007725.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0008575.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0008750.jpg
+https://wilsoncheng561.github.io/surgical-images/video75/0010350.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0010550.jpg
+https://wilsoncheng561.github.io/surgical-images/video75/0012150.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0012275.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0012600.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0012650.jpg
@@ -43,6 +46,8 @@ https://wilsoncheng561.github.io/surgical-images/video75/0019400.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0019525.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0019975.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0020550.jpg
+https://wilsoncheng561.github.io/surgical-images/video75/0022150.jpg
+https://wilsoncheng561.github.io/surgical-images/video75/0023750.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0025325.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0025425.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0025450.jpg
@@ -50,6 +55,9 @@ https://wilsoncheng561.github.io/surgical-images/video75/0025800.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0026375.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0026450.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0026700.jpg
+https://wilsoncheng561.github.io/surgical-images/video75/0028300.jpg
+https://wilsoncheng561.github.io/surgical-images/video75/0029900.jpg
+https://wilsoncheng561.github.io/surgical-images/video75/0031500.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0031700.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0031850.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0032050.jpg
@@ -59,6 +67,7 @@ https://wilsoncheng561.github.io/surgical-images/video75/0033375.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0033600.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0033875.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0034850.jpg
+https://wilsoncheng561.github.io/surgical-images/video75/0036450.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0036675.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0037200.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0037575.jpg
@@ -66,6 +75,7 @@ https://wilsoncheng561.github.io/surgical-images/video75/0037825.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0038275.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0038500.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0039325.jpg
+https://wilsoncheng561.github.io/surgical-images/video75/0040925.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0041525.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0041575.jpg
 https://wilsoncheng561.github.io/surgical-images/video75/0041750.jpg
